@@ -1,0 +1,397 @@
+{
+    "dresses": [
+         {
+           "id" :1,
+           "name": "Floral Maxi Dress",
+           "description": "Flowy floral print maxi dress perfect for summer.",
+           "price": 59.99,
+           "sizes": ["XS", "S", "M", "L"],
+           "image_url": "https://images.unsplash.com/photo-1692220438327-fd668e8a7bbb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8RmxvcmFsJTIwbWF4aSUyMGRyZXNzfGVufDB8fDB8fHww"
+         },
+         {
+           "id": 2,  
+           "name": "Little Black Dress",
+           "description": "Classic little black dress suitable for any occasion.",
+           "price": 69.99,
+           "sizes": ["S", "M", "L"],
+           
+           "image_url": "https://images.unsplash.com/photo-1522218296581-1244648997fb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGl0dGxlJTIwYmxhY2slMjBkcmVzc3xlbnwwfHwwfHx8MA%3D%3D"
+         },
+         {
+           "id": 3,  
+           "name": "Strapless Evening Gown",
+           "description": "Elegant strapless evening gown with a fitted bodice and flowing skirt.",
+           "price": 129.99,
+           "sizes": ["S", "M", "L"],
+           
+           "image_url": "https://media.istockphoto.com/id/184915995/photo/red-power.jpg?s=612x612&w=0&k=20&c=Zi2GRq-2G7o62vz02R8FqyeGYa-6k6xhInPlQncqSWc="
+         },
+         {
+           "id": 4,  
+           "name": "Bohemian Midi Dress",
+           "description": "Boho-chic midi dress with colorful patterns and tassel details.",
+           "price": 44.99,
+           "sizes": ["S", "M", "L", "XL"],
+           
+           "image_url": "https://plus.unsplash.com/premium_photo-1664365204986-04e8f7bb83e3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Ym9oZW1pYW4lMjBtaWRpJTIwZHJlc3N8ZW58MHx8MHx8fDA%3D"
+         },
+         {
+           "id": 5,  
+           "name": "Lace Fit and Flare Dress",
+           "description": "Gorgeous lace fit and flare dress with a flattering silhouette.",
+           "price": 79.99,
+           "sizes": ["XS", "S", "M", "L"],
+           
+           "image_url": "https://media.istockphoto.com/id/1757584705/photo/fashion-woman-strides-in-long-silver-dress-on-white-wall-background.jpg?s=612x612&w=0&k=20&c=vUdZfOTk-nWgC3AAGlEWx9JoSkX3v1Gi7lDHMgrwugc="
+         },
+         {
+           "id": 6,  
+           "name": "Off-Shoulder Bodycon Dress",
+           "description": "Sultry off-shoulder bodycon dress perfect for a night out.",
+           "price": 54.99,
+           "sizes": ["S", "M", "L"],
+           
+           "image_url": "https://media.istockphoto.com/id/1481207695/photo/serie-of-studio-photos-of-young-female-model-in-elegant-plush-dark-red-off-shoulder-dress.jpg?s=612x612&w=0&k=20&c=2NNLnaEXMCUz6nc8OyCKI41cxQMga8z_kZbfXarqQVE="
+         },
+         {
+            "id": 7, 
+           "name": "Wrap Front Maxi Dress",
+           "description": "Chic wrap front maxi dress with a waist tie for a customized fit.",
+           "price": 64.99,
+           "sizes": ["S", "M", "L"],
+           
+           "image_url": "https://media.istockphoto.com/id/173607503/photo/beautiful-girl.jpg?s=612x612&w=0&k=20&c=i8oUs3-U0VhmjTFKCQHiZO_35cy3zRjg9GwVRRd7yIw="
+         },
+         {
+           "id" : 8,
+           "name": "Sleeveless Shift Dress",
+           "description": "Effortlessly stylish sleeveless shift dress in a breathable fabric.",
+           "price": 39.99,
+           "sizes": ["S", "M", "L", "XL"],
+           
+           "image_url": "https://media.istockphoto.com/id/484949591/photo/girl-18-years-old-in-light-blue-sleeveless-dress.jpg?s=612x612&w=0&k=20&c=PWM4xyFACQhiW7RgoqoXDZMMFt2EG2nVLuWgAVBfKMk="
+         },
+         {
+           "id": 9,  
+           "name": "Polka Dot Tea Dress",
+           "description": "Vintage-inspired tea dress with a playful polka dot pattern.",
+           "price": 49.99,
+           "sizes": ["XS", "S", "M"],
+           
+           "image_url": "https://media.istockphoto.com/id/184809264/photo/womans-dress.jpg?s=612x612&w=0&k=20&c=NBLWwsnNg-giN92o_cgCT3uOW98hkgWktfaQMwEACeY="
+         },
+         {
+           "id": 10,
+           "name": "Boat Neck A-Line Dress",
+           "description": "Classic boat neck A-line dress with a timeless silhouette.",
+           "price": 59.99,
+           "sizes": ["M", "L"],
+           "image_url": "https://media.istockphoto.com/id/1257730339/photo/dress-isolated-closeup-of-colorful-elegant-stylish-black-and-white-striped-sleeveless-summer.jpg?s=612x612&w=0&k=20&c=g0Z7QsLLHNazj6uc1Bue7hXgqdrGG953rUjLJWJeTQo="
+         }
+       ],
+       
+     
+     "trousers_men": [
+         {
+             "id": 101,
+             "name": "Slim Fit Jeans",
+             "description": "Classic slim fit jeans made from stretch denim.",
+             "price": 49.99,
+             "sizes": ["28", "30", "32", "34", "36"],
+             "image_url": "https://media.istockphoto.com/id/155384768/photo/mexican-blue-collar-worker.jpg?s=612x612&w=0&k=20&c=4y9GHspp9dllVcarApATfpbYN5CMsAv4xoYJ0QcRosc="
+           },
+           {
+             "id": 102,
+             "name": "Chino Pants",
+             "description": "Versatile chino pants suitable for both casual and formal wear.",
+             "price": 39.99,
+             "sizes": ["30", "32", "34", "36"],
+             "image_url": "https://media.istockphoto.com/id/168438904/photo/confident-young-man.jpg?s=612x612&w=0&k=20&c=vs9mKBjW6Lzvo1lBhbfC5hX2DlxZQztV1hUXF00Z1Ws="
+           },
+           {
+             "id": 103,
+             "name": "Cargo Trousers",
+             "description": "Functional cargo trousers with multiple pockets for storage.",
+             "price": 59.99,
+             "sizes": ["30", "32", "34", "36", "38"],
+             "image_url": "https://media.istockphoto.com/id/1365757342/photo/black-cargo-pants-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=xO2Db4Fqmk0sD-eg8ZsleRVhdJpZ7e8-na56Hq_VQjk="
+           },
+           {
+             "id": 104,
+             "name": "Jogger Pants",
+             "description": "Comfortable jogger pants perfect for lounging or workouts.",
+             "price": 29.99,
+             "sizes": ["S", "M", "L", "XL"],
+             "image_url": "https://media.istockphoto.com/id/1314274760/photo/sport-pants.jpg?s=612x612&w=0&k=20&c=2siBA_21V8CbWXUfQ7ttUqW7ZOzs_d2yjSK8jEtvLw4="
+           },
+           {
+             "id": 105,
+             "name": "Slim Fit Dress Pants",
+             "description": "Tailored slim fit dress pants for a polished look.",
+             "price": 59.99,
+             "sizes": ["30", "32", "34", "36"],
+             "image_url": "https://media.istockphoto.com/id/615277778/photo/pants-isolated-on-white-ghost-fashion-style-of-photography.jpg?s=612x612&w=0&k=20&c=RGNzyg8j7Vjyd7GzUtHsrsGS3ucsZysUjJ6B0j_yYpA="
+           },
+           {
+             "id": 106,
+             "name": "Corduroy Trousers",
+             "description": "Vintage-inspired corduroy trousers with a retro feel.",
+             "price": 49.99,
+             "sizes": ["30", "32", "34", "36"],
+             "image_url": "https://www.istockphoto.com/photo/mens-corduroy-trousers-gm1300245847-392630638"
+           },
+           {
+             "id": 107,
+             "name": "Skinny Fit Trousers",
+             "description": "Modern skinny fit trousers for a sleek and stylish look.",
+             "price": 39.99,
+             "sizes": ["28", "30", "32", "34"],
+             "image_url": "https://media.istockphoto.com/id/476467257/photo/do-you-like-my-ride.jpg?s=612x612&w=0&k=20&c=mDieHWiIIhMZbf9dCJu1sTqofLNBo0awKoVtd605S8g="
+           },
+           {
+             "id": 108,
+             "name": "Cargo Shorts",
+             "description": "Classic cargo shorts with plenty of pockets for utility.",
+             "price": 34.99,
+             "sizes": ["30", "32", "34", "36"],
+             "image_url": "https://media.istockphoto.com/id/585595784/photo/black-cargo-shorts-with-a-belt.jpg?s=612x612&w=0&k=20&c=CnhViS5Ffqn0wbGUKqKlC4G6a-gPbfCmDxTp9yYyEhc="
+           },
+           {
+             "id": 109,
+             "name": "Straight Leg Trousers",
+             "description": "Simple straight leg trousers for a timeless look.",
+             "price": 44.99,
+             "sizes": ["30", "32", "34", "36"],
+             "image_url": "https://media.istockphoto.com/id/1663053232/photo/old-wrinkled-skinny-tight-jeans-on-a-white-background.jpg?s=612x612&w=0&k=20&c=Tixi-9d1szPZz-163rkIpIgNt5qrKU0avBkDS89qzwE="
+           },
+           {
+             "id": 110,
+             "name": "Track Pants",
+             "description": "Sporty track pants with elasticated cuffs and waistband.",
+             "price": 24.99,
+             "sizes": ["S", "M", "L", "XL"],
+             "image_url": "https://media.istockphoto.com/id/1328317886/photo/blank-black-and-white-sport-sweatpants-mockup-front-view.jpg?s=612x612&w=0&k=20&c=GNTvr_AN8xqDMwyUSTl0S46NA61V771KtKcpv3nzPzI="
+           }
+     ],
+     "trousers_women": [
+         {
+             "id": 201,
+             "name": "Skinny High Jeans",
+             "description": "Skinny high-waist jeans for a stylish look.",
+             "price": 54.99,
+             "sizes": ["XS", "S", "M", "L"],
+             "image_url": "https://media.istockphoto.com/id/1478792804/photo/studio-shot-of-female-model-wearing-wide-leg-jeans-and-suede-high-heels-classic-timeless.jpg?s=612x612&w=0&k=20&c=l4BfRORF8cFGhl8MdYtAcK9A4hFfwsOkkE81FZtStIs="
+           },
+           {
+             "id": 202,
+             "name": "Wide Leg Trousers",
+             "description": "Flowy wide-leg trousers perfect for a bohemian look.",
+             "price": 44.99,
+             "sizes": ["S", "M", "L"],
+             "image_url": "https://media.istockphoto.com/id/1701783779/photo/female-model-wearing-beige-smart-casual-high-rise-trousers-studio-shot.jpg?s=612x612&w=0&k=20&c=M2g9JKnTrzhmSJYsZvs3ODc5rWuCjKQUyBG6aynkz0o="
+           },
+           {
+             "id": 203,
+             "name": "Cropped Flare Pants",
+             "description": "Chic cropped flare pants for a trendy silhouette.",
+             "price": 39.99,
+             "sizes": ["S", "M", "L"],
+             "image_url": "https://media.istockphoto.com/id/1171116203/photo/white-womens-fashionable-pants-isolated-in-white-background-invisible-mannequin.jpg?s=612x612&w=0&k=20&c=chIEDiM9Q4ePUUObRA4ykJ9sqcKJgwHXT3DLI0ICzto="
+           },
+           {
+             "id": 204,
+             "name": "High Waisted Culottes",
+             "description": "Sophisticated high-waisted culottes for a polished look.",
+             "price": 49.99,
+             "sizes": ["S", "M", "L"],
+             "image_url": "https://media.istockphoto.com/id/507960728/photo/stylish-fashion-model.jpg?s=612x612&w=0&k=20&c=iZJ38nxfDn7Ip8kkPeaaWDbp6VsnSzZhm0XiCp0NTrI="
+           },
+           {
+             "id": 205,
+             "name": "Paperbag Waist Trousers",
+             "description": "Trendy paperbag waist trousers with a flattering tie belt.",
+             "price": 34.99,
+             "sizes": ["XS", "S", "M"],
+             "image_url": "https://media.istockphoto.com/id/653138030/photo/womens-high-waist-white-blue-gradient-jeans-pants-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=IWSD3BtHUG-AagR3-79E0LdgAkRXio_bq1DaX--EZmA="
+           },
+           {
+             "id": 206,
+             "name": "Pleated Palazzo Pants",
+             "description": "Flowy pleated palazzo pants for a comfortable yet stylish look.",
+             "price": 59.99,
+             "sizes": ["S", "M", "L"],
+             "image_url": "https://media.istockphoto.com/id/1171116191/photo/blue-womens-fashionable-pants-isolated-in-white-background-invisible-mannequin.jpg?s=612x612&w=0&k=20&c=XnsBWbNMFm1RjnznwYPirlJGcQfUqx-ZYrg3uZmEKmk="
+           },
+           {
+             "id": 207,
+             "name": "Slim Fit Dress Pants",
+             "description": "Tailored slim fit dress pants for a professional attire.",
+             "price": 49.99,
+             "sizes": ["S", "M", "L"],
+             "image_url": "https://media.istockphoto.com/id/1505153783/photo/a-girl-in-an-unbuttoned-wet-denim-jumpsuit-sits-in-the-waves-of-the-surf-and-poses-for-the.jpg?s=612x612&w=0&k=20&c=eERRHWSQ5Bifep0EyhA0TaZ-a8aJeHSS-uld7Xdr82s="
+           },
+           {
+             "id": 208,
+             "name": "Cargo Joggers",
+             "description": "Casual cargo joggers for an effortlessly cool vibe.",
+             "price": 29.99,
+             "sizes": ["XS", "S", "M"],
+             "image_url": "https://media.istockphoto.com/id/522547808/photo/young-fitness-woman-running.jpg?s=612x612&w=0&k=20&c=tWx8yDHFOfQe5YfxfOnFcjdcBJWMND6XqSLfjE0kWrw="
+           },
+           {
+             "id": 209,
+             "name": "Tailored Culottes",
+             "description": "Elegant tailored culottes for a versatile wardrobe staple.",
+             "price": 54.99,
+             "sizes": ["S", "M", "L"],
+             "image_url": "https://media.istockphoto.com/id/188093545/photo/woman-pants.jpg?s=612x612&w=0&k=20&c=tYxTbOEoFRj4xCdzmsUwKlLbmrFRwcMENPOqp-5C2-0="
+           },
+           {
+             "id": 210,
+             "name": "Tapered Trousers",
+             "description": "Sleek tapered trousers for a modern and polished look.",
+             "price": 64.99,
+             "sizes": ["XS", "S", "M"],
+             "image_url": "https://media.istockphoto.com/id/1674569806/photo/collage-with-jeans-isolated-on-white-back-and-front-views.jpg?s=612x612&w=0&k=20&c=8brIP27KT2oVHbB4NNWOIW-OUgwHuGVXe-n_P0X1hlw="
+           }
+     ],
+     "accessories": [
+         {
+             "id": 301,
+             "name": "Leather Belt",
+             "description": "Genuine leather belt with a silver buckle.",
+             "price": 19.99,
+             "sizes": ["S", "M", "L"],
+             "image_url": "https://media.istockphoto.com/id/954912784/photo/object-on-background.jpg?s=612x612&w=0&k=20&c=yiDxWQsAZmFIYJXTS_nkqHxSS8evBViJjAPJ9KZ1nsI="
+           },
+           {
+             "id": 302,
+             "name": "Canvas Backpack",
+             "description": "Sturdy canvas backpack with multiple compartments.",
+             "price": 39.99,
+             "image_url": "https://media.istockphoto.com/id/1334457130/photo/casual-backpack-for-men-made-of-black-fabric-with-brown-leather-elements-on-a-white-background.jpg?s=612x612&w=0&k=20&c=GH0bYAfCmZTs9qIgI9JmtTrKp748xbidwRQTSJk-btc="
+           },
+           {
+             "id": 303,
+             "name": "Woven Straw Hat",
+             "description": "Chic woven straw hat perfect for sunny days.",
+             "price": 24.99,
+             "image_url": "https://media.istockphoto.com/id/113584218/photo/straw-hat-cut-out-on-white.jpg?s=612x612&w=0&k=20&c=Qvuj-RWeh3iEkiyt2sekbDHLCXwEmpWD-9gAOnQqFoo="
+           },
+           {
+             "id": 304,
+             "name": "Aviator Sunglasses",
+             "description": "Classic aviator sunglasses with UV protection.",
+             "price": 29.99,
+             "image_url": "https://media.istockphoto.com/id/1371701988/photo/aviator-sunglasses.jpg?s=612x612&w=0&k=20&c=sSh4ZEDBmn78rfzdzQh2SgB1SwkmYNDu6Ko_9m5gjPo="
+           },
+           {
+             "id": 305,
+             "name": "Leather Wallet",
+             "description": "Slim leather wallet with card slots and a bill compartment.",
+             "price": 29.99,
+             "image_url": "https://www.istockphoto.com/photo/senior-unrecognizable-woman-picking-up-a-red-wallet-from-a-rack-in-a-bags-and-gm1073589496-287393477"
+           },
+           {
+             "id": 306,
+             "name": "Knit Beanie",
+             "description": "Cozy knit beanie to keep you warm during colder months.",
+             "price": 14.99,
+             "image_url": "https://media.istockphoto.com/id/1257244095/photo/yellow-knitted-hat-on-wooden-background-with-copyspace-top-view.jpg?s=612x612&w=0&k=20&c=z7OFXhcI_C6U4KRfmYdDh-kWmWqDH1PXfdPnr0a4pAQ="
+           },
+           {
+             "id": 307,
+             "name": "Statement Earrings",
+             "description": "Bold statement earrings to elevate any outfit.",
+             "price": 19.99,
+             "image_url": "https://media.istockphoto.com/id/1955856103/photo/pair-of-earrings-resting-on-wooden-surface.jpg?s=612x612&w=0&k=20&c=dD-UXiOOkxNtcPNsU5DeHRZxkGZIaOJ8lUc4mECgEdg="
+           },
+           {
+             "id": 308,
+             "name": "Leather Crossbody Bag",
+             "description": "Chic leather crossbody bag for hands-free convenience.",
+             "price": 49.99,
+             "image_url": "https://media.istockphoto.com/id/1204241473/photo/woman-wearing-funny-pink-wig-and-smiling-to-camera.jpg?s=612x612&w=0&k=20&c=IZ2L0M_i8U16YUngojJ5J2ty4Dr2yBcKn1cKiKNkUnc="
+           },
+           {
+             "id": 309,
+             "name": "Stainless Steel Watch",
+             "description": "Sleek stainless steel watch with a minimalist design.",
+             "price": 59.99,
+             "image_url": "https://media.istockphoto.com/id/165853320/photo/wristwatch.jpg?s=612x612&w=0&k=20&c=DgQbRd67gNDR0rdOpywkHDTBzLB3ahw_CsMPANtWyY8="
+           },
+           {
+             "id": 310,
+             "name": "Scarf",
+             "description": "Soft and cozy scarf to accessorize your winter outfits.",
+             "price": 19.99,
+             "image_url": "https://media.istockphoto.com/id/154046595/photo/blue-winter-scarf.jpg?s=612x612&w=0&k=20&c=WtHRjxlQj4mbuqc7m5gUVdeh_UL_AkfZDhrVNR4YBI8="
+           }
+     ],
+     "shirts": [
+         {
+             "id": 401,
+             "name": "Striped Oxford Shirt",
+             "description": "Classic striped Oxford shirt for a smart-casual look.",
+             "price": 34.99,
+             "sizes": ["S", "M", "L", "XL"],
+             "image_url": "https://media.istockphoto.com/id/2048357045/photo/multicolored-striped-folded-mens-shirt-with-long-sleeves-and-buttons-isolated-on-white.jpg?s=612x612&w=0&k=20&c=yBz987kmcRzckbUK_WZDBoy0M8TsAgMqk4-mh1LlSP0="
+           },
+           {
+             "id": 402,
+             "name": "Polo T-shirt",
+             "description": "Comfortable polo T-shirt made from breathable cotton.",
+             "price": 29.99,
+             "sizes": ["S", "M", "L", "XL"],
+             "image_url": "https://media.istockphoto.com/id/1496823131/photo/blank-collared-shirt-mock-up-template-front-and-rear-view-plain-black-t-shirt-isolated-on.jpg?s=612x612&w=0&k=20&c=PV6tc9-u0Z-9a81Jwae3Lm3SSCGAqYrEZzOER7gRfgE="
+           },
+           {
+             "id": 403,
+             "name": "Checked Shirt",
+             "description": "Stylish checked shirt suitable for various occasions.",
+             "price": 39.99,
+             "sizes": ["S", "M", "L"],
+             "image_url": "https://media.istockphoto.com/id/498852901/photo/red-plaid-shirt.jpg?s=612x612&w=0&k=20&c=FN0dBgzq0_GDJo5fKwRyM-QDz37TUVxAGKK4o3TSLnI="
+           },
+           {
+             "id": 404,
+             "name": "Button-Down Shirt",
+             "description": "Classic button-down shirt for a timeless wardrobe staple.",
+             "price": 44.99,
+             "sizes": ["S", "M", "L", "XL"],
+             "image_url": "https://media.istockphoto.com/id/1872259154/photo/blue-shirt-front-and-back-view-isolated-on-white-blue-color-formal-shirt-with-button-down.jpg?s=612x612&w=0&k=20&c=qHEmAt3oWixf6Q5_MujxXqp_eStOaARxIbuDd9hE0Yw="
+           },
+           {
+             "id": 405,
+             "name": "Flannel Shirt",
+             "description": "Cozy flannel shirt perfect for cooler days.",
+             "price": 49.99,
+             "sizes": ["S", "M", "L"],
+             "image_url": "https://media.istockphoto.com/id/1461664129/photo/portrait-of-happy-black-young-woman-in-lumberjack-shirt.jpg?s=612x612&w=0&k=20&c=uJDEMD9oop-gF48WWxLRsni_eWhsouEqwvSC5ws-csw="
+           },
+           {
+             "id": 406,
+             "name": "Printed T-shirt",
+             "description": "Graphic printed T-shirt to express your style.",
+             "price": 27.99,
+             "sizes": ["S", "M", "L", "XL"],
+             "image_url": "https://media.istockphoto.com/id/1359597432/photo/male-worker-using-a-drying-oven-for-t-shirt-in-a-workshop.jpg?s=612x612&w=0&k=20&c=UniK3jh4hVLam--i442UuFn_VYlM_otUtKE7tGq181U="
+           },
+           {
+             "id": 407,
+             "name": "Hawaiian Shirt",
+             "description": "Colorful Hawaiian shirt for a tropical vibe.",
+             "price": 34.99,
+             "sizes": ["S", "M", "L"],
+             "image_url": "https://media.istockphoto.com/id/1065524340/photo/brazilian-man-asleep-on-hammock-sugar-loaf-mountain-in-distance.jpg?s=612x612&w=0&k=20&c=htO8SjXHkE6ghWS28Xjs29YbixZqw0NAMHMgEqyTuWI="
+           },
+           {
+             "id": 408,
+             "name": "V-neck T-shirt",
+             "description": "Versatile V-neck T-shirt for everyday wear.",
+             "price": 19.99,
+             "sizes": ["S", "M", "L", "XL"],
+             "image_url": "https://media.istockphoto.com/id/117337129/photo/black-t-shirt.jpg?s=612x612&w=0&k=20&c=v9mkFW1h66MkufsR5-A69qVbxk-wc-Ot2ewqbVFCnQk="
+           }
+     ]
+ }    
