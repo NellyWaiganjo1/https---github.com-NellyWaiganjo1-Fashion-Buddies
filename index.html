@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FashionBuddy</title>
+    <link rel="stylesheet" href="/node_modules/@fortawesome/fontawesome-free/css/fontawesome.css"/>
+    <link rel="stylesheet" href="/node_modules/@fortawesome/fontawesome-free/css/brands.css"/>
+    <link rel="stylesheet" href="/node_modules/@fortawesome/fontawesome-free/css/solid.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css" />
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.css" rel="stylesheet" />
+   <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="intro-container">
+ 
+    <!--Navigation Bar-->
+    <div class="navbar">
+        <ul>
+            <li> <a href="#women">WOMEN</a></li>
+            <li><a href="#men">MEN</a></li>
+            <li> <a href="fav.html">FAV</span></li>
+            <li><a href="cart.html">CART</a></li>
+            <li><a href="profile.html">PROFILE</a></li>   
+            <li>
+                <input type="text" placeholder="Search...">
+                <span class="search-icon"><i class="fas fa-search"></i></span>
+              </li>
+        </ul>
+    </div>
+    <!--Introductory image , message and shop now button-->
+    <div class="intro-text">
+        <h1 class="fw-bold">Welcome to FashionBuddy</h1> <br>
+        <h2 class="fw-bold">Your number one online stop shop for all your fashion needs</h2>
+        <div><button type="button">SHOP NOW</button></div>
+    </div>
+</div>  
+    
+    <!--Explore New Section-->
+    
+    <section id="women" class="p-5 ">
+        <div class="container">
+            <h2 class="text-center">WOMEN</h2><br>
+            <div class="row g-4">
+                <div class="col-md-6 col-lg-3">
+                    <div class="card">
+                        <div class="card-body">
+                        <img src="img/a pair of slippers surrounded by lemons on the grass, in the style of light green and aquamarine, surreal fashion photography, utilitarian, crossed colors, asymmetric balance, ferrania p30, organic and flowing forms.png" class="card-img-top" alt="...">
+                          <p class="card-text text-center">Green Slippers<br><span>Kshs 1000</span></p>
+                          <span class="icon-container">
+                            <i class="bi bi-heart" title="Add to Wishlist"></i>
+                          </span>
+                          <span class="icon-container offset-10">
+                            <i class="bi bi-bag-plus " title="Add to Cart"></i>
+                          </span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3">
+                    <div class="card">
+                        <div class="card-body">
+                        <img src="img/colorful striped retro shirt hanging on hanger, background white wall, side light, high quality photo.png" class="card-img-top" alt="...">
+                            <p class="card-text text-center">Striped Retro Shirt<br><span>Kshs 1200</span></p>
+                            <span class="icon-container">
+                            <i class="bi bi-heart" title="Add to Wishlist"></i>
+                            </span>
+                            <span class="icon-container offset-10">
+                            <i class="bi bi-bag-plus " title="Add to Cart"></i>
+                            </span>
+                        </div>          
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3">
+                        <div class="card">
+                            <div class="card-body">
+                            <img src="img/woman's shoes sitting on floor while clutch, in the style of tamron 24mm f_2.8 di iii osd m1_2, light amber and brown, soft sculpture, rococo style, dansaekhwa, y2k aesthetic, chicano-inspired.png" class="card-img-top" alt="..."> 
+                                <p class="card-text text-center">Vintage heels <br><span>Kshs 1800</span></p>
+                                <span class="icon-container">
+                                <i class="bi bi-heart" title="Add to Wishlist"></i>
+                                </span>
+                                <span class="icon-container offset-10">
+                                <i class="bi bi-bag-plus " title="Add to Cart"></i>
+                                </span>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-md-6 col-lg-3">
+                    <div class="card">
+                        <div class="card-body">
+                            <img src="img/earrings.avif" class="card-img-top" alt="...">
+                            <p class="card-text text-center">Emerald Earrings <br><span>Kshs 1500</span></p>
+                            <span class="icon-container">
+                            <i class="bi bi-heart" title="Add to Wishlist"></i>
+                            </span>
+                            <span class="icon-container offset-10">
+                            <i class="bi bi-bag-plus " title="Add to Cart"></i>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--Best Sellers-->
+    <section id="men" class="p-5 ">
+        <div class="container">
+            <h2 class="text-center ">MEN</h2><br>
+            <div class="row g-4">
+                <div class="col-md-6 col-lg-3">
+                    <div class="card">
+                        <div class="card-body">
+                        <img src="img/a pair of slippers surrounded by lemons on the grass, in the style of light green and aquamarine, surreal fashion photography, utilitarian, crossed colors, asymmetric balance, ferrania p30, organic and flowing forms.png" class="card-img-top" alt="...">
+                          <p class="card-text text-center">Green Slippers<br><span>Kshs 1000</span></p>
+                          <span class="icon-container">
+                            <i class="bi bi-heart" title="Add to Wishlist"></i>
+                          </span>
+                          <span class="icon-container offset-10">
+                            <i class="bi bi-bag-plus " title="Add to Cart"></i>
+                          </span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3">
+                    <div class="card">
+                        <div class="card-body">
+                        <img src="img/colorful striped retro shirt hanging on hanger, background white wall, side light, high quality photo.png" class="card-img-top" alt="...">
+                            <p class="card-text text-center">Striped Retro Shirt<br><span>Kshs 1200</span></p>
+                            <span class="icon-container">
+                            <i class="bi bi-heart" title="Add to Wishlist"></i>
+                            </span>
+                            <span class="icon-container offset-10">
+                            <i class="bi bi-bag-plus " title="Add to Cart"></i>
+                            </span>
+                        </div>          
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3">
+                        <div class="card">
+                            <div class="card-body">
+                            <img src="img/tobias-tullius-Fg15LdqpWrs-unsplash.jpg" class="card-img-top" alt="..."> 
+                                <p class="card-text text-center">Vintage heels <br><span>Kshs 1800</span></p>
+                                <span class="icon-container">
+                                <i class="bi bi-heart" title="Add to Wishlist"></i>
+                                </span>
+                                <span class="icon-container offset-10">
+                                <i class="bi bi-bag-plus " title="Add to Cart"></i>
+                                </span>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-md-6 col-lg-3">
+                    <div class="card">
+                        <div class="card-body">
+                            <img src="img/a pair of sunglasses laying on top of a couch, in the style of light green and light black, minimalist sets, fujifilm natura 1600, fine lines and intricate details, de stijl, chase stone, berthe morisot .png" class="card-img-top" alt="...">
+                            <p class="card-text text-center">Sunglasses<br><span>Kshs 1500</span></p>
+                            <span class="icon-container">
+                            <i class="bi bi-heart" title="Add to Wishlist"></i>
+                            </span>
+                            <span class="icon-container offset-10">
+                            <i class="bi bi-bag-plus " title="Add to Cart"></i>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <footer class="container-fluid">
+        <p>Happy Shopping!</p>
+        <div class="container">
+    <p class="text-center">&copy; 2024 FashionBuddy</p>
+</div>
+    </footer>
+    <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.js"></script>
+</body>
+</html>
