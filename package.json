@@ -1,0 +1,23 @@
+{
+  "name": "runtime-asassins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NellyWaiganjo1/https---github.com-NellyWaiganjo1-Fashion-Buddies.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NellyWaiganjo1/https---github.com-NellyWaiganjo1-Fashion-Buddies/issues"
+  },
+  "homepage": "https://github.com/NellyWaiganjo1/https---github.com-NellyWaiganjo1-Fashion-Buddies#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
