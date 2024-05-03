@@ -2,8 +2,9 @@
   "name": "runtime-asassins",
   "version": "1.0.0",
   "description": "",
-  "main": "script.js",
+  "source": "index.html",
   "scripts": {
+    "start": "parcel --open",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
